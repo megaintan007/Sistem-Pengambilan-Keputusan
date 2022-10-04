@@ -173,7 +173,7 @@
       <ul class="navbar">
         <li class="left-navbar name">
             <a>
-                <span>CAECILIA | H1051181030</span>
+                <span>MEGA INTAN | 20051397007</span>
             </a>
         </li>
         <li class="left-navbar">
